@@ -63,14 +63,9 @@ The project focuses on practicing CRUD Operations with JavaScript while using Lo
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Web browser such as Chrome, Firefox, Edge, or Safari
-- Internet connection for external resources
-
 ### Installation
 
 1. **Clone the repository:**
 
-```bash
-git clone https://github.com/FPS005/ContactHub.git
+```text
+https://github.com/FPS005/ContactHub.git
