@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[**👉 Visit Live Demo Here**](https://fps005.github.io/ContactHub/)
+[**👉 Visit Live Demo Here**](https://mahmoudAboElmagd005.github.io/ContactHub/)
 
 </div>
 
@@ -68,4 +68,4 @@ The project focuses on practicing CRUD Operations with JavaScript while using Lo
 1. **Clone the repository:**
 
 ```text
-https://github.com/FPS005/ContactHub.git
+https://github.com/mahmoudAboElmagd005/ContactHub.git
